@@ -2,7 +2,7 @@
 external: false
 title: "Quantum Computing"
 description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."
-date: 2023-11-06
+date: 2023-12-21
 ---
 
 ![MongoDB](/images/qua.jpg)

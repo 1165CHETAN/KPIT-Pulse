@@ -2,7 +2,7 @@
 external: false
 title: "Clerk for authentication"
 description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."
-date: 2023-11-06
+date: 2023-11-28
 ---
 
 ![Ckerk](/images/clerk.png)

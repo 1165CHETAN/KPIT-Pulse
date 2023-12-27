@@ -2,7 +2,7 @@
 external: false
 title: "What is web 3.0"
 description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."
-date: 2023-11-06
+date: 2023-11-26
 ---
 
 ![MongoDB](/images/web3.png)

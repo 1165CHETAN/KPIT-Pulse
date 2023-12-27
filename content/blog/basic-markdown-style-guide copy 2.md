@@ -2,7 +2,7 @@
 external: false
 title: "React is everywhere"
 description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."
-date: 2023-11-06
+date: 2023-11-18
 ---
 >Imagine React as a wizard for websites. It brings them to life, making buttons click, forms submit, and pages update without a full page reload. It's like magic for creating smooth and interactive web experiences!
 
