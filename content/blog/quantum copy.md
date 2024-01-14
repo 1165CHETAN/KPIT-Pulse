@@ -1,26 +1,33 @@
 ---
 external: false
-title: "Netlify for Deployment"
+title: "ADAS with KPIT"
 description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."
-date: 2023-12-17
+date: 2023-12-15
 ---
 
-![Netlify](/images/net.png)
->Netlify is a powerful platform that simplifies web development with seamless Git-based workflows, global CDN deployment, serverless functions, and built-in CI/CD for efficient and scalable web projects.
+![Netlify](/images/5.png)
 
-## Why to go with Netlify
 
-Easy Deployment: Netlify simplifies the deployment process by offering seamless integration with popular version control systems like Git. Continuous Deployment is automated, making it easy to publish updates with each code push.
+## Why to go with KPIT?
+>Embarking on the journey towards autonomous driving, the blog today unveils the extraordinary capabilities that KPIT brings to the table. As we explore the realm of advanced automotive technology, we shine a spotlight on KPIT's comprehensive suite of offerings that play a pivotal role in propelling the industry forward.
 
-Global Content Delivery Network (CDN): Netlify utilizes a global CDN to distribute content across multiple servers worldwide. This results in faster loading times for websites and applications, providing a better user experience regardless of the user's geographical location.
+#### Industry Leadership Unveiled:
 
-Serverless Functions: Netlify supports serverless architecture, allowing developers to build and deploy serverless functions effortlessly. This facilitates the creation of dynamic, scalable web applications without managing traditional server infrastructure.
+Delve into the realm of innovation with KPIT, a trailblazer with over a decade of expertise, contributing to more than 37 SOP programs and 56 production Projects.
+#### Strategic Collaborations Exposed:
 
-Built-in CI/CD: Netlify provides built-in continuous integration and continuous deployment (CI/CD) capabilities. Automated builds ensure that the latest changes are thoroughly tested before being deployed to production, reducing the likelihood of errors and improving overall code quality.
+Peek behind the curtain of the automotive world as we reveal how KPIT collaborates with over 25 OEMs and Tier-1 partners, transforming conceptual technologies into tangible ADAS and AD solutions.
+#### Simulation Mastery Revealed:
 
-Scalability and Performance Monitoring: Netlify offers scalability as projects grow, and it provides performance monitoring tools to help developers identify and address bottlenecks. This ensures that websites and applications hosted on Netlify can handle increased traffic and maintain optimal performance.
+Uncover the magic of simulation as KPIT conducts a staggering 3 million scenarios, meeting the rigorous standards of ISO, NHTSA, NCAP, and SAE for autonomous driving at Level 2 & L3+.
+#### Global Engineering Brilliance Unlocked:
 
-## Deployment from github
+Journey with us across continents to witness the strength of KPIT's global engineering team, a force of 2000 members spread across India, USA, Germany, Japan, Korea, Vietnam, and China.
+#### Comprehensive Offerings Explored:
 
-{% youtube url="https://www.youtube.com/embed/4h8B080Mv4U?si=LzHuLvtBl9KCo32f" label="Everything is awesome - Lego movie song" /%}
+Peel back the layers of KPIT's offerings, covering the entire V Cycle of an ADAS/AD production program. From system engineering to functional safety, cybersecurity, architecture development, algorithm development, and platform integration – discover how KPIT's 13-step process ensures a seamless transition from prototype to production.
+
+## Want to know more about ADAS?
+
+{% youtube url="https://www.youtube.com/embed/cDK95ncZLv8?si=GSLd7F0NFIollEs2" label="Everything is awesome - Lego movie song" /%}
 

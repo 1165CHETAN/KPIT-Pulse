@@ -1,38 +1,34 @@
 ---
 external: false
-title: "Quantum Computing"
+title: "Autosar with KPIT"
 description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."
 date: 2023-12-21
 ---
+![Netlify](/images/3.png)
 
-![MongoDB](/images/qua.jpg)
->This learning path contains a series of courses to teach you MongoDB skills. In this path, you’ll learn the basics of building modern applications with Node.JS, using MongoDB as your database.
-
-
-## Why Quantum Computing?
+>At KPIT, our commitment to automotive excellence is reflected in the comprehensive suite of offerings we provide. With a focus on innovation and cutting-edge solutions, we take pride in delivering top-notch services to our clients in the automotive industry.
 
 
-#### Chemical Simulation:
-
-Quantum computing improves accuracy in simulating complex molecular structures.
-Methods like DFT, HF, and Post-Hartree-Fock offer varying levels of accuracy and computational cost.
-
-#### Optimization in Route Planning:
-
-Quantum computing transforms logistics by reducing costs through global routing optimization.
-QAOA and Quantum Annealing provide approximate solutions for optimization problems.
-
-#### Machine Learning and AI:
-
-Quantum computing may contribute to next-gen AI, potentially enabling AGI.
-Debate exists on the commercial usefulness of quantum computing for AI applications.
-## Stats about Quantum Computing:
-![MongoDB](/images/qc.jpeg)
-
-In a quantum arms race, IBM's recent unveiling of a 127-qubit processor and QuEra's announcement of a formidable 256-qubit machine have propelled quantum computing into uncharted territory. This quantum leap far exceeds the capabilities of previous processors, which were capped at 100 qubits. The competitive surge marks a pivotal moment in the race to develop powerful quantum computers, with each breakthrough pushing the boundaries of quantum computing capabilities.
-
-The quantum landscape's dynamism is underscored by industry players' active participation. Microsoft and Amazon are already offering quantum computing services through {% mark %}Azure Quantum and Braket{% /mark %}, while Google sets an ambitious goal of creating a 1 million qubit computer by 2029. This flurry of activity and announcements reflects a broader trend, indicating a robust push for advancements in quantum computing.
-
-Beyond the competition, the {% mark %}quantum computing{% /mark %} market is poised for remarkable growth. Data from the Statista Digital Economy Compass projects that the global quantum computing market could reach $9 billion in revenue by 2030, a significant surge from $260 million in 2020. This anticipated growth, averaging over 40 percent annually between 2020 and 2030, foretells a transformative decade with the potential for groundbreaking technological advancements, driven by the extraordinary computing capabilities of quantum systems that can simultaneously represent both 1 and 0 states in a single qubit.
+## Autosar with KPIT:
 
 
+- Production-Ready Solutions:
+
+KPIT offers production-ready platforms, tools, and accelerators for seamless integration into automotive systems.
+AUTOSAR Base Software Solutions:
+
+With over 15 years of AUTOSAR experience, KPIT provides AUTOSAR Base Software Solutions spanning E/E Architecture, including High-Performance Compute (HPC) Platforms, Real-Time Critical ECUs, Sensors, and I/O Concentrators.
+- Unique Combination:
+
+AUTOSAR at KPIT is characterized by a unique combination of production-ready platforms, tools, accelerators, software integration services, and cross-domain integration, providing distinct value to our OEM and Tier-1 clients.
+- Co-Development Partnerships:
+
+KPIT has established co-development partnerships with leading OEMs and Tier-1s, boasting approvals from 8+ OEMs for our KSAR stack.
+- Global Expertise:
+
+Our team comprises 900+ engineers with extensive AUTOSAR experience, delivering solutions across global delivery locations.
+- Premium Membership:
+
+As a testament to our dedication to industry standards and collaboration, KPIT proudly holds the status of a Premium Member of the AUTOSAR Consortium.
+
+{% youtube url="https://www.youtube.com/embed/8j5M1uHYn10?si=oj95BCVN5hu8Ied8" label="Everything is awesome - Lego movie song" /%}
