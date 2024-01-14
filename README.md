@@ -1,13 +1,13 @@
 
-## TechBytes-Blog application
-### [live_link](https://techbytes-chetan.netlify.app/)      |    [demo_video](https://www.canva.com/design/DAF22qNeMOU/40FU4w3RRtXRrCfMzgiHwA/watch?utm_content=DAF22qNeMOU&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
+## KPIT-Pulse-Blog application
+### [live_link](https://KPIT-Pulse-chetan.netlify.app/)      |    [demo_video](https://www.canva.com/design/DAF22qNeMOU/40FU4w3RRtXRrCfMzgiHwA/watch?utm_content=DAF22qNeMOU&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
 
 
-"Welcome to TechBytes. Start reading tech blogs, just like never before. Stay connected, stay curious."🚀
+"Welcome to KPIT-Pulse. Start reading tech blogs, just like never before. Stay connected, stay curious."🚀
 
 
 
-![3](https://github.com/1165CHETAN/TechBytes/assets/111604779/0f434cad-3bee-494f-8893-0e9d01f4d48b)
+![3](https://github.com/1165CHETAN/KPIT-Pulse/assets/111604779/0f434cad-3bee-494f-8893-0e9d01f4d48b)
 
 
 
@@ -16,18 +16,18 @@
 
 - Astro:  A modern static site generator framework, for **quick loading**.
 - Markdown: Streamline content creation with Markdown, a lightweight markup language for effortless text formatting.
-- GitHub: Collaborate seamlessly on your projects with GitHub, the leading platform for version control, code hosting.
+- GitHub: Collaborate seamlessly on your Projects with GitHub, the leading platform for version control, code hosting.
 - Tailwind CSS: Craft stylish and consistent designs effortlessly with Tailwind CSS, a utility-first framework that simplifies the styling process.
 - Netlify: Experience seamless deployment and hosting with Netlify, so you can access website from anywhere!!
   
-![TopicForge (2)](https://github.com/1165CHETAN/TechBytes/assets/111604779/a5ee37c1-7120-49e4-93cd-b08cfb24703e)
+![TopicForge (2)](https://github.com/1165CHETAN/KPIT-Pulse/assets/111604779/a5ee37c1-7120-49e4-93cd-b08cfb24703e)
 
 
 ## Project Recipe
-![1](https://github.com/1165CHETAN/TechBytes/assets/111604779/e044f0ab-33ce-4821-8e08-1bbf8c3ed30d)
+![1](https://github.com/1165CHETAN/KPIT-Pulse/assets/111604779/e044f0ab-33ce-4821-8e08-1bbf8c3ed30d)
 
 1. Project Planning and Scope Definition;
-Defined objectives and scope for TechBytes platform.
+Defined objectives and scope for KPIT-Pulse platform.
 Selected Astro for static site generation, Markdown for content, and Tailwind CSS for styling.
 
 3. Frontend Development:
@@ -44,7 +44,7 @@ Utilized Tailwind CSS for consistent and visually appealing blog post styling.
 Hosted the project on GitHub for version control and collaboration.
 
 6. Deployment with Netlify:
-Successfully deployed TechBytes on Netlify for a smooth user experience.
+Successfully deployed KPIT-Pulse on Netlify for a smooth user experience.
 
 
 
